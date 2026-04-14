@@ -1,0 +1,9 @@
+.chat{
+    background-color: rgb(93, 174, 245);
+    height: 270px;
+    width: 350px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: large;
+}
